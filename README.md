@@ -18,9 +18,9 @@ Now I build AI systems that make automation processes smarter.
 `LangChain` `LangGraph` `RAG` `ChromaDB` `Docker` `SQL` `Git`
 
 **Selected work**
-- 🏭 Predictive Alarm Management Platform — ML + RAG for industrial monitoring (M.Sc. thesis) \
-- 🏠 Cross-market real-estate price prediction — XGBoost, R²=0.91 on Ames Housing \
-- 🖼️ Image deblurring with CNNs — MSE 0.001995 \
+- 🏭 Predictive Alarm Management Platform — ML + RAG for industrial monitoring (M.Sc. thesis)
+- 🏠 Cross-market real-estate price prediction — XGBoost, R²=0.91 on Ames Housing
+- 🖼️ Image deblurring with CNNs — MSE 0.001995
 - 📅 ITC-2019 optimisation — Simulated Annealing, >99.5% across 30 datasets
 
 📫 DMVasilov@yandex.ru | [LinkedIn](https://linkedin.com/in/dvasilov)
